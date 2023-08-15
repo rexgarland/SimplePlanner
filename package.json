@@ -1,0 +1,18 @@
+{
+  "name": "simpleplanner",
+  "version": "1.0.0",
+  "description": "Planning should be easy and flexible.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "serve docs"
+  },
+  "keywords": [],
+  "author": "Rex Garland <rex@rexgarland.dev> (https://rexgarland.dev/)",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
