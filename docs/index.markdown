@@ -9,4 +9,4 @@ layout: home
 
 ## Install
 
-- [v1.0.2: MacOS](https://github.com/rexgarland/SimplePlanner/releases/download/untagged-7e8c138c0d6c64fb79c5/Simple.Planner-darwin-arm64-1.0.2.zip)
+- [v1.0.2: MacOS](https://github.com/rexgarland/SimplePlanner/releases/download/v1.0.2/Simple.Planner-darwin-arm64-1.0.2.zip)
